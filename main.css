@@ -1,0 +1,48 @@
+
+h1{
+    color: red;
+    font-size: 30px;
+    font-family:Times New Roman;
+    
+}
+li{
+    color: brown;
+    font-style: italic;
+
+}
+.input{
+    color: orangered;
+    font-style: oblique;
+}
+h2{
+    color: olive;
+    font-family: sans-serif
+}
+.button{
+    color: brown;
+    font-style: oblique;
+    
+}
+body{
+    background-image: linear-gradient(0, #fffd, #2123)
+}
+a{
+    font-size: 20px;
+    color: red;
+}
+.background-image{
+    width: 500px;
+    height: 500px;
+    background-position:left;
+}   
+input:focus{
+    color: #123;
+}
+label{
+    color: rebeccapurple;
+    font-family:'geneva', cursive;
+}
+.homnay{
+    color: green;
+    font-family: 'tahoma', cursive;
+}
